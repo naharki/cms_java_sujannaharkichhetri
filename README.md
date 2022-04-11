@@ -2,6 +2,10 @@
 
 Sujannaharki zip contains the code section which include codes and other resources. To download this download this zip without opening this.
 
+CMSPROJECT-1-1 ---> contain REPORT File
+CMS_PresentationPPT------> contain presentation ppt
+sujannaharki.zip --> contains all codes repository
+
 
 ## Hi there !
 
